@@ -61,3 +61,7 @@ kubectl delete namespace redis
 
 
 
+
+
+
+
